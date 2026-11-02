@@ -103,6 +103,7 @@ Banco de dados do **futuro ERP da NAVØR**: **31 tabelas** em **SQL Server**, no
 - [x] Site completo com HTML, CSS e JavaScript
 - [x] Modelagem de banco de dados relacional
 - [x] Fundamentos de C e lógica de programação
+- [ ] Aprofundar SQL (procedures, views e otimização de consultas)
 - [ ] Construir minha primeira API back-end
 - [ ] Estudar fundamentos de segurança da informação
 
