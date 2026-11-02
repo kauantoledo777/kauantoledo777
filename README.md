@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2d4d,100:2f81f7&height=200&section=header&text=Kauan%20Toledo&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Service%20Desk%20%7C%20ADS%20%7C%20Desenvolvimento%20Web%20%26%20Banco%20de%20Dados&descSize=17&descAlignY=58&animation=fadeIn" alt="Banner Kauan Toledo"/>
+  <img src="./assets/banner.svg" width="100%" alt="Banner Kauan Toledo"/>
 </p>
 
 <!-- ===================== TEXTO DIGITANDO ===================== -->
@@ -62,12 +62,6 @@ int main(void) {
 
 ## 🚀 Projeto principal
 
-<p align="center">
-  <a href="https://github.com/kauantoledo777/NAVOR_Barbearia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kauantoledo777&repo=NAVOR_Barbearia&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2f81f7&icon_color=2f81f7" alt="NAVØR Barbearia - Site"/>
-  </a>
-</p>
-
 ### 💈 NAVØR – Barber • Lounge | Site da barbearia
 
 Site desenvolvido em grupo (ADS / UNICID) para uma barbearia que oferece serviços de cuidados pessoais e estética, além da venda de produtos e bebidas. A estrutura foi pensada para receber, no futuro, a integração com um sistema ERP. **Atuei como desenvolvedor Front-end.**
@@ -91,9 +85,7 @@ Site desenvolvido em grupo (ADS / UNICID) para uma barbearia que oferece serviç
 Banco de dados do **futuro ERP da NAVØR**: **31 tabelas** em **SQL Server**, normalizadas até a **3FN**, com DER, dicionário de dados, massa de dados, testes de restrições e consultas analíticas.
 
 <p align="center">
-  <a href="https://github.com/Erisclecio/ModelagemBarbearia_NAVOR_">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erisclecio&repo=ModelagemBarbearia_NAVOR_&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2f81f7&icon_color=2f81f7" alt="NAVØR - Modelagem de Dados"/>
-  </a>
+  <a href="https://github.com/Erisclecio/ModelagemBarbearia_NAVOR_"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"/></a>
 </p>
 
 ---
@@ -101,20 +93,7 @@ Banco de dados do **futuro ERP da NAVØR**: **31 tabelas** em **SQL Server**, no
 ## 📈 Minha evolução no GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kauantoledo777&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2f81f7&icon_color=2f81f7" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=kauantoledo777&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2f81f7&fire=2f81f7&currStreakLabel=2f81f7&locale=pt_BR" alt="Sequência de contribuições"/>
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kauantoledo777&theme=github-compact&bg_color=0d1117&color=2f81f7&line=2f81f7&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade"/>
-</p>
-
-<!-- Animação da cobrinha: só aparece depois de configurar o workflow (ver instruções) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauantoledo777/kauantoledo777/output/snake-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/kauantoledo777/kauantoledo777/output/snake.svg" alt="Animação de contribuições"/>
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=kauantoledo777&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2f81f7&fire=2f81f7&currStreakLabel=2f81f7&locale=pt_BR" alt="Sequência de contribuições"/>
 </p>
 
 ---
